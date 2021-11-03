@@ -2,8 +2,6 @@
 Aplikasi deteksi gempa terkini
 Modularisasi dengan Function
 """
-
-
 def ekstraksi_data():
     """
     Tanggal: 03 November 2021
