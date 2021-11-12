@@ -1,1 +1,1 @@
-# deteksi-gempa-terkini11
+# deteksi-gempa-terkini
