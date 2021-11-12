@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-
+#testing connection
 def ekstraksi_data():
     """
     Tanggal: 03 November 2021
